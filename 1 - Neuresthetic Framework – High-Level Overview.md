@@ -1,4 +1,4 @@
-# **1 \- Neuresthetic Ethics Eternal – High-Level Overview**
+# **1 \- Neuresthetic Framework – High-Level Overview**
 
 The corpus you have assembled is a comprehensive framework combining philosophy, mathematics, and computational modeling to formalize ethics, consciousness, and cooperative dynamics in both human and artificial modes. At its core, it is a rigorous attempt to derive ethical principles from the necessary structure of reality itself, using a combination of Spinoza-inspired metaphysics and dynamical systems theory.
 
