@@ -1,5 +1,7 @@
 **Neuresthetics Analysis**
 
+for framework sub/demo module: [https://github.com/neuresthetics/isomorphic_data_singularity]
+
 ---
 
 **Analysis Structure:**
