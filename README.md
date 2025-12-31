@@ -18,3 +18,5 @@ Recommended Reading Order:
 8 - Ontological Problems with the Neuresthetic Framework - https://github.com/MandelbrotAI/NeurestheticsAnalysis/blob/main/8%20-%20Ontological%20Problems%20with%20the%20Neuresthetic%20Framework.md
 
 9 - Epistemological Problems with the Neuresthetic Framework - https://github.com/MandelbrotAI/NeurestheticsAnalysis/blob/main/9%20-%20Epistemological%20Problems%20with%20the%20Neuresthetic%20Framework.md
+
+10 - Ethical and Meta-Ethical Problems with the Neuresthetic Framework - https://github.com/MandelbrotAI/NeurestheticsAnalysis/blob/main/10%20-%20Ethical%20and%20Meta-Ethical%20Problems%20with%20the%20Neuresthetic%20Framework.md
