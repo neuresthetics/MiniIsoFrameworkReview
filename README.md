@@ -14,3 +14,7 @@ Recommended Reading Order:
 6 - Framework Hardening and Further Philosophical Critiques - https://github.com/MandelbrotAI/NeurestheticsAnalysis/blob/main/6%20-%20Framework%20Hardening%20and%20Further%20Philosophical%20Critiques.md
 
 7 - The Neuresthetic Framework and the Philosophy of Language - https://github.com/MandelbrotAI/NeurestheticsAnalysis/blob/main/7%20-%20The%20Neuresthetic%20Framework%20and%20the%20Philosophy%20of%20Language.md
+
+8 - Ontological Problems with the Neuresthetic Framework - https://github.com/MandelbrotAI/NeurestheticsAnalysis/blob/main/8%20-%20Ontological%20Problems%20with%20the%20Neuresthetic%20Framework.md
+
+9 - Epistemological Problems with the Neuresthetic Framework - https://github.com/MandelbrotAI/NeurestheticsAnalysis/blob/main/9%20-%20Epistemological%20Problems%20with%20the%20Neuresthetic%20Framework.md
