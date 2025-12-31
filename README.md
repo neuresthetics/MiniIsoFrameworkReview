@@ -1,6 +1,7 @@
 Philosophical/Ethical/Meta-Ethical Analysis of https://github.com/neuresthetics/isomorphic_data_singularity
 
 Recommended Reading Order:
+
 1 - Neuresthetic Framework – High-Level Overview - https://github.com/MandelbrotAI/NeurestheticsAnalysis/blob/main/1%20-%20Neuresthetic%20Framework%20%E2%80%93%20High-Level%20Overview.md
 
 2 - Logical Analysis - https://github.com/MandelbrotAI/NeurestheticsAnalysis/blob/main/2%20-%20Logical%20Analysis.md
